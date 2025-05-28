@@ -14,7 +14,7 @@ Prerequisites
 
 Installation
 1)Clone the repository:
-  git clone https://github.com/harshvardhan60792/caesar-cipher.git
+  git clone https://github.com/harshvardhan60792/caesar_cipher.git
 2)Navigate to the project directory
   cd caesar-cipher
 3)Run the script:
